@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "username": "muhs",
+      "email": "muhsinamuhsina703@gmail.com",
+      "password": "675",
+      "id": 1
+    },
+    {
+      "username": "muhs",
+      "email": "qairuabi@gmail.com",
+      "password": "675",
+      "id": 2
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "1",
+      "title": "bigDawgs",
+      "imageUrl": "https://c.files.bbci.co.uk/2DE6/production/_124905711_11.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "husn",
+      "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+      "id": 2
+    },
+    {
+      "videoId": "2",
+      "title": "husn",
+      "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "2",
+      "title": "Music",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "husn",
+          "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "1",
+          "title": "bigDawgs",
+          "imageUrl": "https://c.files.bbci.co.uk/2DE6/production/_124905711_11.jpg",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "videoId": "1",
+      "title": "bigDawgs",
+      "url": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+      "datetime": "2024-09-02T06:04:14.678Z",
+      "id": 1
+    },
+    {
+      "videoId": "1",
+      "title": "bigDawgs",
+      "url": "https://www.youtube.com/embed/undefined?si=kumw9VmhVP5Tj5Oz&autoplay=1",
+      "datetime": "2024-09-02T06:27:36.166Z",
+      "id": 2
+    }
+  ]
+}
